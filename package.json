@@ -1,0 +1,22 @@
+{
+  "name": "note-saver-speer",
+  "version": "1.0.0",
+  "description": "back-end assessment speer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albe68/note-saver-speer.git"
+  },
+  "keywords": [
+    "note-saver"
+  ],
+  "author": "albe68",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albe68/note-saver-speer/issues"
+  },
+  "homepage": "https://github.com/albe68/note-saver-speer#readme"
+}
